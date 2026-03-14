@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Afkbot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "UsernameXoX.aternos.me",
